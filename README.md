@@ -47,6 +47,8 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Results
 ![alt text](https://github.com/ozanbahadir/Hand-eye-Calibration/Result/H2Translation (2).svg?raw=true)
+![Alt text](https://github.com/ozanbahadir/Hand-eye-Calibration/Result/H2Translation (2).svg?sanitize=true)
+<img src="https://github.com/ozanbahadir/Hand-eye-Calibration/Result/H2Translation (2).svg?sanitize=true">
 
 ## Acknowledgments
 
