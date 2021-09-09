@@ -1,18 +1,11 @@
-You can download ur5 robot with prallel griper following steps.
-open a terminal and clone the following repostory.
+```
+## Description
+This repository enables you to collect virtual data in the pybullet environment by using the UR5 robot equipped with a parallel gripper.
+## Getting Started
+clone the following repository into your workspace:
 ```
 git clone https://github.com/Alchemist77/pybullet-ur5-equipped-with-robotiq-140.git
 ```
-# Project Title
-
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
