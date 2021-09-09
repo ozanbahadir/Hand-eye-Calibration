@@ -35,8 +35,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Ozan Bahadir  
-ex. [@ozanbahadir](ozanbahadir61@gmail.com)
+Ozan Bahadir  
+contact info: ozanbahadir61@gmail.com
 
 ## License
 
