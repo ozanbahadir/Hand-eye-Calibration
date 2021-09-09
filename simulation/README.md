@@ -1,4 +1,3 @@
-```
 ## Description
 This repository enables you to collect virtual data in the pybullet environment by using the UR5 robot equipped with a parallel gripper.
 ## Getting Started
