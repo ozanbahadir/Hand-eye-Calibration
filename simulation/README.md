@@ -5,14 +5,17 @@ clone the following repository into your workspace:
 ```
 git clone https://github.com/Alchemist77/pybullet-ur5-equipped-with-robotiq-140.git
 ```
+```
+pip3 install pybullet
+```
+
+
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
+* Ubuntu 16.04
+* python3
 ### Installing
 
-* How/where to download your program
+* Replace ur5_robotiq140.py with  
 * Any modifications needed to be made to files/folders
 
 ### Executing program
