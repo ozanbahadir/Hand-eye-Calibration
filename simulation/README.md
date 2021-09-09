@@ -15,15 +15,13 @@ pip3 install pybullet
 * python3
 ### Installing
 
-* Replace ur5_robotiq140.py with  
-* Any modifications needed to be made to files/folders
+* Replace ur5_robotiq140.py with run_ur5_robotiq140 .py 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* open a terminal
 ```
-code blocks for commands
+python3 run_ur5_robotiq140.py
 ```
 
 ## Help
