@@ -46,15 +46,7 @@ contact info: ozanbahadir61@gmail.com
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Results
-[Positional Result for Experiment 2 ](https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H2Translation.svg)
-<img src="https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H2Translation.svg">
-[Orientational Result for Experiment 2 ](https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H2Orientation.svg)
-<img src="https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H2Orientation.svg">
 
-[Positional Result for Experiment 3 ](https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H3Translation.svg)
-<img src="https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H3Translation.svg">
-[Orientational Result for Experiment 3 ](https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H3Orientation.svg)
-<img src="https://github.com/ozanbahadir/Hand-eye-Calibration/blob/main/Result/H3Orientation.svg">
 
 
 
