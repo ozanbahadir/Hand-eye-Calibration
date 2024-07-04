@@ -60,10 +60,10 @@ You can customize the script by adjusting the following parameters:
 ## Acknowledgements
 This project uses the following libraries:
 
-PyBullet
-NumPy
-Matplotlib
-Pillow
+-PyBullet
+-NumPy
+-Matplotlib
+-Pillow
 
 ## Help
 
