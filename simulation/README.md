@@ -1,10 +1,7 @@
 ## Description
 This repository enables you to collect virtual data in the pybullet environment by using the UR5 robot equipped with a parallel gripper.
 ## Getting Started
-clone the following repository into your workspace:
-```
-git clone https://github.com/Alchemist77/pybullet-ur5-equipped-with-robotiq-140.git
-```
+
 ```
 pip3 install pybullet
 ```
