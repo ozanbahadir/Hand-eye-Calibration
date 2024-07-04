@@ -79,9 +79,6 @@ Contributors names and contact info
 Ozan Bahadir  
 contact info: ozanbahadir61@gmail.com
 
-## License
-
-This project is licensed under the Ozan Bahadir License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
