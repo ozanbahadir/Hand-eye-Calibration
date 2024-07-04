@@ -1,15 +1,39 @@
 ## Description
-This repository enables you to collect virtual data in the pybullet environment by using the UR5 robot equipped with a parallel gripper.
-## Getting Started
+This repository contains a Python script for simulating a UR5 robot with a Robotiq 140 gripper in a PyBullet environment. The script randomly generates positions and orientations for the robot's end-effector, captures RGB and RGBD images, and saves these images along with relevant data to files.
+## Requirements
+
+- Python 3.7+
+- PyBullet
+- NumPy
+- Matplotlib
+- Pickle
+- Pillow
+
+
+## Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/ozanbahadir/Hand-eye-Calibration.git
+```
+2. Install the required Python packages:
+```
+pip install pybullet numpy matplotlib pillow
 
 ```
-pip3 install pybullet
-```
+
+## Usage
+### Ensure you have the required URDF files for the UR5 robot and Robotiq 140 gripper. Place these files in the appropriate directories as specified in the script.
+
+### Run the script:
+
+
 
 
 ### Dependencies
 * Ubuntu 16.04
-* python3
+* 
 ### Installing
 
 * Replace ur5_robotiq140.py with run_ur5_robotiq140 .py 
