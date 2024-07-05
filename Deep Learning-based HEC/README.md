@@ -25,5 +25,5 @@ This repository provides a deep learning approach for hand-eye calibration using
   - **Train Models:** Adjust hyperparameters as needed and run training scripts.
   - **Evaluate Models:** Use the provided evaluation functions.
 ## Run
-'sh python RegressionWithImage.py' for Hypotheses 2 and 3
-'sh python Ref_Net_FNNS.py' for Hypotheses 1
+bash python RegressionWithImage.py for Hypotheses 2 and 3
+bash python Ref_Net_FNNS.py' for Hypotheses 1
