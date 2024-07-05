@@ -1,6 +1,3 @@
-Here are the commands corresponding to the script you provided:
-
-```python
 from torch.utils.data import Subset
 from torch.utils.data import TensorDataset, DataLoader
 from pathlib import Path
