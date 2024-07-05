@@ -2,28 +2,47 @@
 
 This repository contains implementations and experiments for hand-eye calibration in robotic systems, leveraging continual learning and deep learning approaches.
 
-## Overview
+# Overview
 Hand-eye calibration is a critical task in robotics that ensures accurate coordination between a robot's visual sensors and its manipulators. This project explores two advanced methodologies:
 
-### Continual Learning Approaches to Hand-Eye Calibration
+## Continual Learning Approaches to Hand-Eye Calibration
 
 This method focuses on enabling robots to adapt their calibration over time without requiring complete retraining from scratch, thus maintaining performance and adapting to changes dynamically.
 
-### Deep Learning-Based Hand-Eye Calibration Using a Single Reference Point
+## Deep Learning-Based Hand-Eye Calibration Using a Single Reference Point
 
 This approach utilizes deep neural networks to perform hand-eye calibration, improving efficiency and reducing setup time.
 
-#### Features
+# Features
 Continual Learning: Implementations of various continual learning algorithms that allow the robot to update its calibration as it encounters new data.
 Deep Learning Models: Pre-trained models and training scripts for hand-eye calibration using a single reference point.
+
 Evaluation Metrics: Tools to evaluate the performance of calibration methods, including accuracy and robustness metrics.
-Installation
+
+# Installation
 Clone the repository and install the required dependencies:
+
+
+# Dataset
+The project utilizes a synthetic dataset for training and testing. Real-world datasets can be integrated by following the data preparation guidelines provided in the documentation.
+
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgements
+This work is based on the research presented in the following papers:
+
+"Continual Learning Approaches to Hand-Eye Calibration in Robots"
+"A Deep Learning-Based Hand-Eye Calibration Approach Using a Single Reference Point on a Robot Manipulator"
+
 
 
 
 ## Description
 This repository enables you to collect virtual data in the pybullet environment by using the UR5 robot equipped with a parallel gripper.
+
+
 ## Getting Started
 clone the following repository into your workspace:
 ```
