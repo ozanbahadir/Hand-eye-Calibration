@@ -24,88 +24,36 @@ Clone the repository and install the required dependencies:
 
 
 # Dataset
-The project utilizes a synthetic dataset for training and testing. Real-world datasets can be integrated by following the data preparation guidelines provided in the documentation.
+The project employs a synthetic dataset for training and testing purposes. To generate synthetic data, please refer to the **Simulation** folder within the repository.
+
+Additionally, real-world datasets can be incorporated by adhering to the data preparation guidelines outlined in the documentation.
 
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Acknowledgements
-This work is based on the research presented in the following papers:
 
-"Continual Learning Approaches to Hand-Eye Calibration in Robots"
-"A Deep Learning-Based Hand-Eye Calibration Approach Using a Single Reference Point on a Robot Manipulator"
-
-
-
-
-## Description
-This repository enables you to collect virtual data in the pybullet environment by using the UR5 robot equipped with a parallel gripper.
-
-
-## Getting Started
-clone the following repository into your workspace:
-```
-cd /simulation
-git clone https://github.com/Alchemist77/pybullet-ur5-equipped-with-robotiq-140.git
-```
-```
-pip3 install pybullet
-```
-
-
-### Dependencies
-* Ubuntu 16.04
-* python3
-### Installing
-
-* Replace ur5_robotiq140.py with run_ur5_robotiq140 .py 
-
-### Executing program
-
-* open a terminal
-```
-python3 run_ur5_robotiq140.py
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
+# Authors
 
 Contributors names and contact info
 
 Ozan Bahadir  
 contact info: ozanbahadir61@gmail.com
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+# Acknowledgements
+This work is based on the research presented in the following papers:
 
-## Results
-
-
-
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [Alchemist77](https://github.com/Alchemist77/pybullet-ur5-equipped-with-robotiq-140/)
+-Continual Learning Approaches to Hand-Eye Calibration in Robots"
+-A Deep Learning-Based Hand-Eye Calibration Approach Using a Single Reference Point on a Robot Manipulator"
 
 
 
 
 
 
-### Executing program
 
-* You can use ethier simulation or real-world data collection 
-* Then you can train your model by following step
-* open a terminal 
-```
-python3 .py 
-```
+
+
+
+
