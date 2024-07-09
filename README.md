@@ -51,4 +51,5 @@ contact info:Paul.Siebert@glasgow.ac.uk
 This work is based on the research presented in the following papers:
 
 -Continual Learning Approaches to Hand-Eye Calibration in Robots"
--[A Deep Learning-Based Hand-Eye Calibration Approach Using a Single Reference Point on a Robot Manipulator (https://ieeexplore.ieee.org/abstract/document/10011774))] 
+
+-[[A Deep Learning-Based Hand-Eye Calibration Approach Using a Single Reference Point on a Robot Manipulator]([url](https://ieeexplore.ieee.org/abstract/document/10011774))] 
