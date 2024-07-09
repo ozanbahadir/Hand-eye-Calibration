@@ -37,8 +37,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributors names and contact info
 
-Ozan Bahadir  
-contact info: ozanbahadir61@gmail.com
+Dr Ozan Bahadir  
+contact info: ozanbahadir61@gmail.com, obahadir@kho.msu.edu.tr
+
+Dr Gerardo Aragon Camarasa
+contact info:Gerardo.AragonCamarasa@glasgow.ac.uk
+
+Dr Jan Paul Siebert 
+contact info:Paul.Siebert@glasgow.ac.uk
 
 
 ## Acknowledgements
